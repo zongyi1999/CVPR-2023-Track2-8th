@@ -1,5 +1,6 @@
-# The 8-th solution to CVPR 2023 foundation model challenge-Track2 Competition 
+# CVPR 2023第一届大模型比赛Track2 第8名方案
 We follow the code described in the CVPR2023 paper titled ["Cross-Modal Implicit Relation Reasoning and Aligning for Text-to-Image Person Retrieval"](https://github.com/anosorae/IRRA)
+
 Requirements
 ## Usage
 ### Requirements
@@ -28,7 +29,9 @@ Organize your data folder as follows:
 |       |-- retrival1
 |       |-- retrival2
 ```
-The logs can be download from:""
+The logs can be download from:
+链接：https://pan.baidu.com/s/1pcxTXMNkKEaQoXGTPWT7qg 
+提取码：0wfp 
 
 ## Training
 
